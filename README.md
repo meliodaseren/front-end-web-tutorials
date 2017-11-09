@@ -35,11 +35,12 @@ Deploy an static site to the Internet.
 
 ![Deploying: Overview](./images/Deploy_overview.png)
 
-![Deploying: Review](./images/Deploy_review.png)
-
 ### Project 5
 
 * Create a Static Website Using Jekyll
+
+![Deploying: Review](./images/Deploy_review.png)
+
 * Deploy Your Website to GitHub Pages
 
 ![Deploying: GitHub Pages](./images/Deploy_github.png)
