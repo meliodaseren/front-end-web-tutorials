@@ -33,20 +33,16 @@ Deploy an static site to the Internet.
 2. Deployed it to the Internet
 3. Given the website a custom domain name
 
-![Deploying: Overview](./Deploying.png "Deploying")
+![Deploying: Overview](./Deploy_overview.png)
+
+![Deploying: Review](./Deploy_review.png)
 
 ### Project 5
 
+* Create a Static Website Using Jekyll
+* Deploy Your Website to GitHub Pages
 
+![Deploying: GitHub Pages](./Deploy_github.png)
 
-### Project 6
-
-
-
-### Project 7
-
-
-
-### Project 8
-
+* Assign a Custom Domain Name to Your Website
 
