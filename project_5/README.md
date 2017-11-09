@@ -32,3 +32,30 @@ Jekyll offers a standard directory structure, as well as components that help sp
 You can learn more about the Jekyll directory structure [here](https://jekyllrb.com/docs/structure/).
 
 
+## Domain Name System (DNS)
+
+![Domain Name System (DNS)](./images/domain_name.png)
+
+In the top portion of the diagram:
+
+1. Bob wants to call Sue, but does not have Sue's phone number memorized.
+2. Bob types "Sue" into his phone and his phone identifies the phone number associated with Sue.
+3. The phone call is then made. Sue's phone receives a request (it rings). If Sue answers, Bob and Sue are connected and can now communicate.
+
+Your computer communicates with websites in a simliar fashion.
+
+In the bottom portion of the diagram:
+
+1. Bob wants to load the Codecademy website, but does not have Codecademy's IP address memorized.
+2. Bob types www.codecademy.com into his browser and the DNS then identifies the IP address associated with www.codecademy.com.
+3. The request to load Codecademy's website is then made. If the server successfully responds, Bob can now load and communicate with Codecademy's website.
+
+For more details, read the following Codecademy resource:
+
+* [HTTP Requests](https://www.codecademy.com/articles/http-requests)
+
+![DNS](./images/DNS.png)
+
+```bash
+$ dig www.yourcustomdomain.com
+```
