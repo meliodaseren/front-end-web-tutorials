@@ -34,7 +34,7 @@ You can learn more about the Jekyll directory structure [here](https://jekyllrb.
 
 ## Domain Name System (DNS)
 
-![Domain Name System (DNS)](./images/domain_name.png)
+![Domain Name System (DNS)](../images/domain_name.png)
 
 In the top portion of the diagram:
 
@@ -54,7 +54,7 @@ For more details, read the following Codecademy resource:
 
 * [HTTP Requests](https://www.codecademy.com/articles/http-requests)
 
-![DNS](./images/DNS.png)
+![DNS](../images/DNS.png)
 
 ```bash
 $ dig www.yourcustomdomain.com
