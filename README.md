@@ -19,9 +19,9 @@ Boundaries and Space
 
 Building with Bootstrap
 
-![Display: Block v.s. inline](./block_vs_inline.png "Block v.s. inline")
+![Display: Block v.s. inline](./images/block_vs_inline.png "Block v.s. inline")
 
-![Bootstrap Grid Example](./bootstrap_grid_example.png "Bootstrap Grid Example")
+![Bootstrap Grid Example](./images/bootstrap_grid_example.png "Bootstrap Grid Example")
 
 ---
 
@@ -33,16 +33,16 @@ Deploy an static site to the Internet.
 2. Deployed it to the Internet
 3. Given the website a custom domain name
 
-![Deploying: Overview](./Deploy_overview.png)
+![Deploying: Overview](./images/Deploy_overview.png)
 
-![Deploying: Review](./Deploy_review.png)
+![Deploying: Review](./images/Deploy_review.png)
 
 ### Project 5
 
 * Create a Static Website Using Jekyll
 * Deploy Your Website to GitHub Pages
 
-![Deploying: GitHub Pages](./Deploy_github.png)
+![Deploying: GitHub Pages](./images/Deploy_github.png)
 
 * Assign a Custom Domain Name to Your Website
 
