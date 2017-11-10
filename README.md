@@ -51,6 +51,8 @@ Deploy an static site to the Internet.
 
 ## Learn HTML | Codecademy
 
+[Here](https://github.com/meliodaseren/front-end-web-tutorials/tree/master/HTML_Tutorial)
+
 ---
 
 ## Learn CSS | Codecademy
@@ -59,4 +61,5 @@ Deploy an static site to the Internet.
 
 ## Learn Responsive Design | Codecademy
 
+[Here](https://github.com/meliodaseren/front-end-web-tutorials/tree/master/Responsive_Design)
 
