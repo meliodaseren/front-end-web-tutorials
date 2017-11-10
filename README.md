@@ -46,3 +46,17 @@ Deploy an static site to the Internet.
 ![Deploying: GitHub Pages](./images/Deploy_github.png)
 
 * Assign a Custom Domain Name to Your Website
+
+---
+
+## Learn HTML | Codecademy
+
+---
+
+## Learn CSS | Codecademy
+
+---
+
+## Learn Responsive Design | Codecademy
+
+
